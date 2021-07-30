@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saisrinivenkat
+- 👋 Hi, I’m Saisrinivasan
 - 👀 I’m interested in Web development and Machine learning
 - 🌱 Currently learning React.js
 - 💞️ I’m looking to collaborate on web development
