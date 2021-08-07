@@ -15,7 +15,7 @@
 
 <img align="right" height="240px" width="350px" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
-### I am a Student at College of ENgineering, Guindy
+### I am a Student at College of Engineering, Guindy
 - 👋 Hi, I’m Saisrinivasan
 - 👀 I’m interested in Web development and Machine learning
 - 🌱 Currently learning React.js
