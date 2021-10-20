@@ -18,7 +18,7 @@
 ### I am a Student at College of Engineering, Guindy
 - 👋 Hi, I’m Saisrinivasan
 - 👀 I’m interested in Web development and Machine learning
-- 🌱 Currently learning React.js
+- 🌱 Currently learning TypeScript
 - 💞️ I’m looking to collaborate on web development
 - 📫 Reach me at twitter @saisrinivenkat_
 
