@@ -18,8 +18,8 @@
 ### I am a Student at College of Engineering, Guindy
 - 👋 Hi, I’m Saisrinivasan
 - 👀 I’m interested in Web development and Machine learning
-- 🌱 Currently Focusing on Placements
-- 💞️ I’m looking to collaborate on web development
+- 🌱 Currently Focusing on Myself
+- 💞️ I’m looking to collaborate on ml projects
 - 📫 Reach me at twitter @saisrinivenkat_
 
 <br>
@@ -75,7 +75,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Profile Development
+Focusing on Exploring myself
 ```
 <!--END_SECTION:waka-->
 
